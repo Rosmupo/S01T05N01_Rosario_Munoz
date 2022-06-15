@@ -1,0 +1,17 @@
+F EX5.ser Fecha de la última modificación 11/5/2022
+F Ex3.txt Fecha de la última modificación 15/5/2022
+D carpeta_a Fecha de la última modificación 11/5/2022
+F 4444.txt Fecha de la última modificación 11/5/2022
+D maria Fecha de la última modificación 11/5/2022
+F 22222.txt Fecha de la última modificación 10/5/2022
+F 4444.txt Fecha de la última modificación 11/5/2022
+D pepe Fecha de la última modificación 10/5/2022
+F 11111.txt Fecha de la última modificación 10/5/2022
+D carpeta_b Fecha de la última modificación 11/5/2022
+D laura Fecha de la última modificación 10/5/2022
+F 3333.txt Fecha de la última modificación 10/5/2022
+D pedro Fecha de la última modificación 11/5/2022
+F 55555.txt Fecha de la última modificación 11/5/2022
+D carpeta_c Fecha de la última modificación 11/5/2022
+D juan Fecha de la última modificación 11/5/2022
+F 444444.txt Fecha de la última modificación 11/5/2022
